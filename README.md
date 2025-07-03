@@ -4,7 +4,13 @@
 - 💞️ I’m looking to collaborate on startup projects and future technologies
 - 🔍 enjoys playing with new things every day
 - 📫 How to reach me? huangyong.web3@gmail.com
+<br/>
 
+Meet a dynamic problem-solver, passionate about blockchain technology. With a track record of success, I've triumphed at hackathons, including Toyota and Polkadot DAO 🏆, and am an ETHIndia'22 Polygon DeFi Track champion 🏆. As a Full Stack Ethereum Blockchain Developer, I drive innovation.🏆
+
+<br/>
+
+[![An image of @nikku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikku)](https://holopin.io/@nikku)
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GlenHyy&show_icons=true&theme=gotham" alt="Glen Huang" /> </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GlenHyy" alt="Grey Huang" /> </p>
 
@@ -218,12 +224,3 @@
 ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-#### 🔍 Search Engines
-
-
-![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
- [![Noah's GitHub | Stats](https://stats.quine.sh/Noah/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Noah)
-
- [![Noah's GitHub | Languages Over Time](https://stats.quine.sh/Noah/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Noah)
- 
