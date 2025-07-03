@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Grey Huang
+- 👋 Hi, I’m @Glen Huang
 - 👀 I’m interested in creating the magical stuff 🖤
 - 🌱 I’m currently learning how use to ai 💻
 - 💞️ I’m looking to collaborate on startup projects and future technologies
 - 🔍 enjoys playing with new things every day
 - 📫 How to reach me? huangyong.web3@gmail.com
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GreyHy&show_icons=true&theme=gotham" alt="noah lu" /> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GreyHy" alt="Grey Huang" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GlenHyy&show_icons=true&theme=gotham" alt="Glen Huang" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GlenHyy" alt="Grey Huang" /> </p>
 
 ### Things I use while working!
 <p>
