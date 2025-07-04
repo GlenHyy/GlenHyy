@@ -11,8 +11,26 @@ Meet a dynamic problem-solver, passionate about blockchain technology. With a tr
 <br/>
 
 [![An image of @nikku's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nikku)](https://holopin.io/@nikku)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GlenHyy&show_icons=true&theme=gotham" alt="Glen Huang" /> </p>
+
+<h2 align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Github Statistics</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=GlenHyy" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=GreyHy" height="150" alt="languages graph"  />
+</div>
+
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=GlenHyy" alt="Grey Huang" /> </p>
+
+###
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
+
 
 ### Things I use while working!
 <p>
