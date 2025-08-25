@@ -29,8 +29,36 @@ Meet a dynamic problem-solver, passionate about blockchain technology. With a tr
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+<br/>
+  
+- ***I’m currently working in Shenzhen*** <!--Institute of Computing Sciences**-->  
+  
+
+- ***I’m currently learning Rust and Flink***  
+  
+
+- ***Ask me anything about database and related technologies***  
+  
+  
+- ***I love fitness, traveling, Overwatch, piano, classic music and enjoying delicious food***  
 
 
+- ***I love connecting with different people so if you want to say hi, I'll be happy to meet you more!***  
+  
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://github.com/JesseAtSZ/JesseAtSZ.github.io/blob/main/img/site/code.gif?raw=true" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
 
 ### Things I use while working!
 <p>
